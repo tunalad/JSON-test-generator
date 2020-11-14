@@ -1,0 +1,1742 @@
+{
+  "1": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Osnovna podela i klasifikacija softvera"
+  },
+  "2": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Navesti primere aplikativnog i sistemskog softvera"
+  },
+  "3": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Objasniti sta je arhitektura racunara"
+  },
+  "4": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Objasniti sta je organizacija racunara"
+  },
+  "5": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Koje su osnovne komponente von Neumann-ove masine?"
+  },
+  "6": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Da li von Neumann-ova arhitektura podrzava paralelno izvrsavanje instrukcija?"
+  },
+  "7": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Koja je osnovna razlika „Harvard“ arhitekture u odnosu na standardnu von Neumann-ovu?"
+  },
+  "8": {
+    "Lecture": 1,
+    "Drawing": true,
+    "Question": "Prikazati savremene racunare u obliku visenivoske masine"
+  },
+  "9": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Objasniti princip ekvivalencije hardvera i softvera"
+  },
+  "10": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Objasniti Flynn-ovu klasifikaciju računara"
+  },
+  "11": {
+    "Lecture": 1,
+    "Drawing": true,
+    "Question": "SSID blok sema"
+  },
+  "12": {
+    "Lecture": 1,
+    "Drawing": true,
+    "Question": "SIMD blok sema"
+  },
+  "13": {
+    "Lecture": 1,
+    "Drawing": true,
+    "Question": "MISD blok sema"
+  },
+  "14": {
+    "Lecture": 1,
+    "Drawing": true,
+    "Question": "MIMD blok sema"
+  },
+  "15": {
+    "Lecture": 1,
+    "Drawing": false,
+    "Question": "Koje se implementacije tehnologije mogu izdvojiti kao najznacajnije u dosadasnjem razvoju racunarskih sistema?"
+  },
+  "16": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "Prikazati i objasniti osnovne komponente racunara optste namene"
+  },
+  "17": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Na koji nacin se CPU povezuje sa ostalim komponentama racunara"
+  },
+  "18": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koje se magistrale nalaze u okviru sistemse magistrale? Cemu one sluze"
+  },
+  "19": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Cemu sluzi memoriska magistrala"
+  },
+  "20": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Cemu sluzi U/I magistrala"
+  },
+  "21": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koje su osnovne komponente CPU"
+  },
+  "22": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Cemu sluzi upravljacka jedinica"
+  },
+  "23": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Cemu sluzi Aritmeticko-logicka jedinica"
+  },
+  "24": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Objasni namenu registra procesa: brojac naredbi (Program counter) – BN"
+  },
+  "25": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Objasni namenu registra procesa: registar naredbi (Instruction register) – RN"
+  },
+  "26": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "Skicirati i objasniti citanje instrukcije iz memorije koriscenjem registra BN, RN, MAR, PRM i upravljacke jedinice"
+  },
+  "27": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Cime je odredjena arhitektura CPU"
+  },
+  "28": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koje su osnovne operacije nad memorijskim lokacijama primarne memorije"
+  },
+  "29": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Kako se moze izbrisati jedne memorijske reci bez koriscenja instrukcije CLEAR"
+  },
+  "30": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "32-bit broj 12345678 (hex) se nalazi u mem. cija je duzina jedne lokacije 8bit, koristeci „big endian“ metod pocev lokacije sa adresom 100. Koji deo datog broja se nalazi na lokaciji sa adresom 102?"
+  },
+  "31": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koje su najvaznije karakteristike memorije racunara"
+  },
+  "32": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Sta je asocijativna memorija i gde se koristi"
+  },
+  "33": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Objasni fetch-decode-execute (uzmi-analiziraj-izvrsi) ciklus, tj kako se izvrsavaju instrukcije programa."
+  },
+  "34": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Kako se podaci upisuju na magnetni disk"
+  },
+  "35": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "Prikazati strukturu magnetnog diska"
+  },
+  "36": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "Prikazati organizaciju diska na jednoj povrsini magnetne ploce"
+  },
+  "37": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Navesti i objasniti komponente vremena pristupa magnetnom disku"
+  },
+  "38": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koja je namena RAID tehnologiji"
+  },
+  "39": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Navesti i objasniti tri osnovna nacina  za komunikaciju centralnog CPU sa U/I uredjajima"
+  },
+  "40": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koja je osnovna namena prekida u racunarskom sistemu"
+  },
+  "41": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koje vrste prekida psotoje kod racunarskih sistema"
+  },
+  "42": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Koja je namena sistemskih poziva"
+  },
+  "43": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Kako se vrse dozvola i zabrana rada maskirajućih prekida"
+  },
+  "44": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Kako se resava upravljanje prekidima nakon postavljanja vise prekida u isto vreme?"
+  },
+  "45": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Navesti i objasniti moguce nacine za uvođenje paralelizma na nivou instrukcije"
+  },
+  "46": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Objasni princip rada protocne obrade (pipelining)"
+  },
+  "47": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "Prikazati blok semu GMSV (Global Memory Shared Variable) arhitekture sistema"
+  },
+  "48": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "Kod multi-CPU sistema se moze desiti da vise CPU konkurentno pristpua globalnoj memoriji (zajednickoj deljenoj memoriji). Navesti i ukratko objasniti modele koji se koriste za resavanje moguceg nastanka kolizije kod pristupa istoj mem. lokaciji."
+  },
+  "49": {
+    "Lecture": 2,
+    "Drawing": false,
+    "Question": "U slučaju da više CPU pokušava da istovremeno upiše neku vrednost u istu memorijsku lokaciju potrebno je definisati koji će od tih CPU stvarno izvršiti upis. Navesti i objasniti rešenja koja se primenjuju u tom situaciji"
+  },
+  "50": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "DMSV (Distributed Memory, Shared Variables) blok sema arhitekture sistema"
+  },
+  "51": {
+    "Lecture": 2,
+    "Drawing": true,
+    "Question": "DMML (Distributed Memory, Message Passing) blok sema arhitekture sistema"
+  },
+  "52": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Cime je definisan format instrukcije?"
+  },
+  "53": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Koji formati instrukcija postoje?"
+  },
+  "54": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Osnovni tipovi instrukcija na konvencionalnom masinskom nivou"
+  },
+  "55": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Navesti vrste adresiranja"
+  },
+  "56": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti trenutno adresiranje"
+  },
+  "57": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti direktno memorijsko adresiranje"
+  },
+  "58": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti direktno registarsko adresiranje"
+  },
+  "59": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti indirektno memorijsko adresiranje"
+  },
+  "60": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti indirektno registarsko adresiranje"
+  },
+  "61": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti bazno registarsko adresiranje"
+  },
+  "62": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti indeksno adresiranje"
+  },
+  "63": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Kako se na konvencionalnom masinskom nivou realizuje bezuslovni skok?"
+  },
+  "64": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Kako se na konvencionalnom masinskom nivou realizuje uslovni skok (granjanje)?"
+  },
+  "65": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Kako se vrsi upravljanje tokom izvrsavanja modula unutar programa na konvencionalnom masinskom nivou?"
+  },
+  "66": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Navesti nacine cuvanja adrese povratka kod poziva podprograma"
+  },
+  "67": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Kako se kod rekurzivnih sprecava gubljenje adrese povratka?"
+  },
+  "68": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Gde se koriste korutine?"
+  },
+  "69": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Koji neophodni elementi su potrebni da se nađu u memoriji kod realizacije asemblera?"
+  },
+  "70": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Objasniti princip rada asemblera na primeru asemblera sa dva prolaza"
+  },
+  "71": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Koja je namena programskog prevodioca (compiler), program za povezivanje (linker), i program za punjenje (loader)?"
+  },
+  "72": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Kako se dobija relokatibilni binarni kod?"
+  },
+  "73": {
+    "Lecture": 3,
+    "Drawing": false,
+    "Question": "Koja je osnovna karakteristika relokatibilnog binarnog koda?"
+  },
+  "74": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Sta je mikroprogramiranje ili mikrokod"
+  },
+  "75": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Zasto se mikroprogramiranje intenzivno koristilo na mnogim prvim CPU?"
+  },
+  "76": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Objasni mikroinstrukciju (ili mikrooperaciju) i sta je mikroprogramiranje"
+  },
+  "77": {
+    "Lecture": 4,
+    "Drawing": true,
+    "Question": "Blok seme ciklusa uzimanja i izvrsavanja instrukcija"
+  },
+  "78": {
+    "Lecture": 4,
+    "Drawing": true,
+    "Question": "Blok seme ciklusa uzimanja i izvrsavanja instrukcija sa prekidima"
+  },
+  "79": {
+    "Lecture": 4,
+    "Drawing": true,
+    "Question": "Blok sema intel 8086 CPU sa prikazom registara, upravljacke jedinice, ALU, i magistrala"
+  },
+  "80": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Sta je firmware i koja je njegova namena"
+  },
+  "81": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Gde se skladisti firmware"
+  },
+  "82": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Mikroarhitektura se moze podeliti u dve sekcije: sekciju podataka (datapath) i upravljacku sekciju. Objasni šta čini datapath, a sta upravljacku sekciju."
+  },
+  "83": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Sta je stek"
+  },
+  "84": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Opisati hipoteticku stek masinu"
+  },
+  "85": {
+    "Lecture": 4,
+    "Drawing": true,
+    "Question": "Prikazati realizaciju steka u memoriji"
+  },
+  "86": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Kako se moze ubrzati rad sa stekom koji se razlikuje koriscenjem bafera u memoriji?"
+  },
+  "87": {
+    "Lecture": 4,
+    "Drawing": false,
+    "Question": "Objasni sta je upravljacka memorija na mikroprogramskom nivou"
+  },
+  "88": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Sta je OS?"
+  },
+  "89": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Navesti primere OS"
+  },
+  "90": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Zasto je OS reaktivni program"
+  },
+  "91": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Prikazati primer kreiranja vise virtuelnih masina nad istim hardverom i OS"
+  },
+  "92": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Na koj se nacin OS „budi“ iz stanja praznog hoda"
+  },
+  "93": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Koji su osnovni ciljevi savremenih OS"
+  },
+  "94": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Dati primer apstrakcije hardvera racunarskog sistema"
+  },
+  "95": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Dati primer apstrakcije ostalih resursa racunarskih sistema koji nisu hardver"
+  },
+  "96": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Cemu sluzi poznavanje rada na savremenim OS"
+  },
+  "97": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Kljucni aspekti OS"
+  },
+  "98": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Dva osnovna nacina deljenja resursa u racunaru. I primere molim, hvala"
+  },
+  "99": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Navesti servise koje obezbeđuju savremeni OS"
+  },
+  "100": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Koje su osnovne funkcije savremenih OS"
+  },
+  "101": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Loader je program koji vrsi punjenje drugih programa u memoriji i prenosi kontrolu na te izvrsene programe. Ko puni loader u memoriji?"
+  },
+  "102": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Graficki prikazati zivotni ciklus sistema koji obuhvata ukljucenje i iskljucenje napajanja"
+  },
+  "103": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Grafički prikaz punjenje bootloader-a i kernel-a u RAM"
+  },
+  "104": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Zasto OS treba da spreci korisnike da pristupe „boot“ sektoru"
+  },
+  "105": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Klasifikovati OS po broju podrzanih procesa i CPU"
+  },
+  "106": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Na koji se nacin kod viseprogramskih OS povecava iskoriscenje CPU"
+  },
+  "107": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Navesti nacine rada OS na osnovu nacina interakcije korisnika sa racunarom i vremena odziva racunara na zahtev korisnika"
+  },
+  "108": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Objasni nacin rada OS sa paketnom obradom"
+  },
+  "109": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Objasni nacin rada OS sa deljenjem procesorskog vremena (time sharing)"
+  },
+  "110": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Objasni nacin rada OS za rad u realnom vremenu"
+  },
+  "111": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Koje dve grupe OS za rad u realnom vremenu postoje?"
+  },
+  "112": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Koji tipovi i vrste OS postoje danas?"
+  },
+  "113": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Kako napisati monolitni OS"
+  },
+  "114": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Navesti prednost OS koji imaju mikro jezgro"
+  },
+  "115": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Na koje module se mogu dekompilovati savremeni OS"
+  },
+  "116": {
+    "Lecture": 5,
+    "Drawing": true,
+    "Question": "Prikazati strukturu modularnog OS"
+  },
+  "117": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Prednosti modularnog OS"
+  },
+  "118": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Objasni razliku između mrežnih OS i konvencionalnih OS koji se izvršavaju na jednom CPU"
+  },
+  "119": {
+    "Lecture": 5,
+    "Drawing": false,
+    "Question": "Objasni razliku između distribuiranih OS i konvencionalnih OS koji se izvrsavaju na jednom CPU"
+  },
+  "120": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Sta je proces i koje su komponente procesa"
+  },
+  "121": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Ko moze inicirati kreiranje procesa"
+  },
+  "122": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni razliku između programa i procesa"
+  },
+  "123": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Gde OS cuva sve podatke o svim procesima"
+  },
+  "124": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Sta je deskriptor procesa (ili kontrolni blok procesa - KBP) i koje podatke sadrzi"
+  },
+  "125": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Kada se kreira i kada unistava kontrolni blok procesa"
+  },
+  "126": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni sta je nit (thread)"
+  },
+  "127": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Koliko procesa moze biti aktivno u jednom trenutku na datom racunarskom sistemu? Obrazlozi odgovor"
+  },
+  "128": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Koja su moguca stanja procesa"
+  },
+  "129": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni prelaske između mogucih stanja procesa"
+  },
+  "130": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Navesti moguce razlike blokiranja procesa"
+  },
+  "131": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Prikazati dijagram stanja procesa"
+  },
+  "132": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Koja su moguca stanja u niti"
+  },
+  "133": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Prikazati dijagram stanja niti"
+  },
+  "134": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Koja su moguca stanja niti"
+  },
+  "135": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Prikazati dijagram stanja niti"
+  },
+  "136": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Koji se resursi koriste kada se kreiraju niti? U cemu je razlika u odnosu na resurse koji se koriste kada se kreira proces?"
+  },
+  "137": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Navesti primere aplikacija koje koriste vise niti i na taj nacin ostvaruju poboljsanje preformansi u odnosu na resenje sa jednom niti"
+  },
+  "138": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Blok sema rada OS sa redovima cekanja"
+  },
+  "139": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasniti prelaske procesa između različitih redova cekanja u toku svog zivotnog ciklusa"
+  },
+  "140": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni strukturu podataka koja predstavlja posao/proces"
+  },
+  "141": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Prikazati kvaziparalelno izvrsavanje programa na primeru programa P1, P2 i P3 pod uslovom da programi imaju isti prioritet izvrsavanja i da OS radi u „time sharing“"
+  },
+  "142": {
+    "Lecture": 6,
+    "Drawing": true,
+    "Question": "Prikazati paralelno izvrsavanje programa na primeru P1, P2, P3"
+  },
+  "143": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni kriticnu sekciju vise niti ili vise procesa"
+  },
+  "144": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Sistem se sastoji od dva procesa S i R koji dele zajednicki bafer kapaciteta C poruka. Proces S upisuje poruke u bafer, a proces R ih cita iz bafera. Koji uslovi moraju biti ispunjeni da bi sistem ispravno funkionisao u situaciji kada relativne brzine pristupa baferu procesa S i R nisu unapred poznate?"
+  },
+  "145": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni sta znaci međusobno iskljucivanje procesa u odnosu na kriticne sekcije"
+  },
+  "146": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni sta znaci sinhronizacija procesa pri kom uslovu su dva procesa blokirana"
+  },
+  "147": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Navesti osnovne zahteve koje OS mora obezbediti u cilju uspesnog upravljanja konkretnim procesima"
+  },
+  "148": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Navesti osnovne zahteve koje OS mora obezbediti u cilju uspesnog upravljanja konkretnim procesima"
+  },
+  "149": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Kako je E. Dijkstra resio problem iskljucenje i sinhronizacije procesa"
+  },
+  "150": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Definisati P i V operacije nad promenljivom s tipa semafor"
+  },
+  "151": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Objasni sta je zaposleno cekanje (busy wait)"
+  },
+  "152": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Dijkstra je P i V operacije definisao kao hardverski neprekidive. Kako se to moze ostvariti"
+  },
+  "153": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "U okviru kog dela softvera se implementiraju P i V operacije nad promenljivama tipa semafor? Obrazlozi muda, hvala"
+  },
+  "154": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Prikazati resenja problema međusobnog iskljucenja n > 2 procesa koji imaju kriticne sekcije jedan u odnosu na druge. Primeniti P i V operacije nad binarnim semaforom medisk"
+  },
+  "155": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Prikazati kako se problem međusobnog iskljucenja i sinhronizacije procesa posiljaoca poruka S  i procesa primaoca poruka R moze uspešno resiti koriscenjem semafora ako je dat bafer kapaciteta C poruka"
+  },
+  "156": {
+    "Lecture": 6,
+    "Drawing": false,
+    "Question": "Na koji nacin kratkorocni planer ucestvuje u radu sa semaforima"
+  },
+  "157": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Koje su najvaznije aktivnosti OS u delu za upravljanje memorijom"
+  },
+  "158": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Navesti komponente upravljanja memorijom pomocu kojih OS donosi bitne odluke neophodne za efikasno upravljanje memorije"
+  },
+  "159": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Navesti moguce nacine za upravljanje memorijom"
+  },
+  "160": {
+    "Lecture": 7,
+    "Drawing": true,
+    "Question": "Pokazati memorijski sistem kod savremenih racunarskih sistema"
+  },
+  "161": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni sta znaci vezivanje adresa (adress binding)"
+  },
+  "162": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Kako se vrsi staticko vezivanje adresa"
+  },
+  "163": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Kako se vrsi dinamicko vezivanje adresa"
+  },
+  "164": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Na koji nacin se generisu apsolutne memorijske adrese kod dinamicnog vezivanja adresa"
+  },
+  "165": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Koje funkcije preslikavanja obuhvata upravljanje memorijom"
+  },
+  "166": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni sta je preslikavanje adresa"
+  },
+  "167": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Sta je virtuelna adresa"
+  },
+  "168": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Sta je fizicka adresa"
+  },
+  "169": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Opisati internu fragmentaciju memorije"
+  },
+  "170": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Opisati eksternu fragmentaciju memorije"
+  },
+  "171": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Opisati „First Fit“ algoritam (najboljg uklapanja) za dodelu memorije"
+  },
+  "172": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Opisati „Best Fit“ algoritam (najboljg uklapanja) za dodelu memorije"
+  },
+  "173": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Opisati „Worst Fit“ algoritam (najboljg uklapanja) za dodelu memorije"
+  },
+  "174": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Koje dodatne podake ima tablea stranica osim adrese okvira"
+  },
+  "175": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni cemu sluzi TLB bafer (Translation Lookaside Buffer)"
+  },
+  "176": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni sta je stranicni prekid"
+  },
+  "177": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni kako se servisira stranicni prekid"
+  },
+  "178": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Koji od sledecih algoritama ima Belady-evu anomaliju: LRU, FIFO, algoritam druge sanse"
+  },
+  "179": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni globalno i lokalno stranicenje"
+  },
+  "180": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni sta je thrashing"
+  },
+  "181": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Da li je pojava Belady-eve anomalije znaci automatski i pojavu thrashing-a? Obrazlozi"
+  },
+  "182": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Koja su moguca stanja stranica kod upravljanja memorije pomocu dinamickih stranica"
+  },
+  "183": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Zasto se ponekad segmentiranje i straničenje kombinuju unutar jedne seme upravljanja memorije"
+  },
+  "184": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Objasni hardversku zastitu memorije realizovanu pomocu baznog i granickog registra"
+  },
+  "185": {
+    "Lecture": 7,
+    "Drawing": false,
+    "Question": "Ko moze da upisuje vrednosti adresa u bazni i granicni registar"
+  },
+  "186": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Koje vrste planera postoje kod OS"
+  },
+  "187": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Koja je uloga dugorocnog planera (long-term scheduler)"
+  },
+  "188": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Uloga kratkorocnog planera (short-term scheduler)"
+  },
+  "189": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Razlika u ucestanosti pozivanja dugorocnog i kratkorocnog planera"
+  },
+  "190": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Sta je okruzenje ili kontekst procesa"
+  },
+  "191": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Sta je dispecer"
+  },
+  "192": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Koje su funkcije dispecera"
+  },
+  "193": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Sta je dispecersko kasnjenje"
+  },
+  "194": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Kriterijumi koji se koriste kod paniranja algoritama dodele CPU"
+  },
+  "195": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Algoritam dodele centralnom CPU određuje redosled izvrsavanja procesa u dadtom sistemu. Pod pretpostavkom da je dato n procesa cije izvrsavanje treba rasporediti na jednom CPU koliki je broj razlicitih mogucih dodela centralnog CPU? Prikazati zavisnost kao funkciju n."
+  },
+  "196": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Razlika između algoritma dodele CPU sa prekidanjem (preemptive) i bez (non- preemptive)"
+  },
+  "197": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Optimizacija dodele CPU nije ista za sve sisteme. Navesti 3 karakteristisna okruzenja koja se razlikuju po nacinu optimizacije dodele CPU"
+  },
+  "198": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Objasni FCFS (First Come First Served) algoritam"
+  },
+  "199": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Objasni SFJ (Shortest Job First) algoritam"
+  },
+  "200": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Kada je SFJ optimalan"
+  },
+  "201": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Sta fali SFJ"
+  },
+  "202": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Kako moze doci do gladovanja (starvation) kod SFJ"
+  },
+  "203": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Objasni SRFT (Shortest Time Remaining First)"
+  },
+  "204": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Algoritam planiranja po prioritetu procesa"
+  },
+  "205": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Koji opseg prioriteta procesa se koristi kod Linux OS"
+  },
+  "206": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Kako se moze menjati prioritet procesa kod UNIX OS"
+  },
+  "207": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Ko moze promeniti prioritet procesa kod savremenih OS"
+  },
+  "208": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Sta je inverzija prioriteta? Kako nastaje? Kako je razresiti?"
+  },
+  "209": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Objasni RR (Round Robin)"
+  },
+  "210": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Objasni algoritam planiranja sa redovima cekanja u vise nivoa"
+  },
+  "211": {
+    "Lecture": 8,
+    "Drawing": true,
+    "Question": "Graficki prikaz hijerarhijskog uređaja algoritama dodele CPU FCFS, RR, MLS, HPF ako je kriterijum uređenja specijalan slucaj (is-a special case of)"
+  },
+  "212": {
+    "Lecture": 8,
+    "Drawing": false,
+    "Question": "Kako se određuje prosecno vreme cekanja procesa kod dodele CPU"
+  },
+  "213": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Objasni sta znaci potpuni zastoj (deadlock)"
+  },
+  "214": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Uslovima viseprogramskog rada moze doci o situacije koja se naziva potpuni zastoj ili blokiranje (deadlock). Vesti potrebne uslove za astanak deadlock-a"
+  },
+  "215": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Prikazati kako se vrsi modeliranje potpunog zastoja. Objasni sta su grafovi dodele resursa  koje tipove svora imaju"
+  },
+  "216": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Da li potpuni zastoj obavezno nastaje kada su ispunjena sledeca 4 potrebna uslova: međusobno iskljucenje, pseudovanje i cekanje, kruzno cekanje, nema prekida"
+  },
+  "217": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Da li je moguce da nastane potpuni zastoj koji ukljucuje samo jedan proces? Obrazlozi"
+  },
+  "218": {
+    "Lecture": 9,
+    "Drawing": true,
+    "Question": "Prikazati primer grafa dele resursa za sistem kod koga postoji potpuni zastoj"
+  },
+  "219": {
+    "Lecture": 9,
+    "Drawing": true,
+    "Question": "Prikazati primer grafa dele resursa za sistem kod koga postoji ne potpuni zastoj"
+  },
+  "220": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Dat je sistem koji se sastoji od pet procesa ji dele sest resursa stog tipa i gde su svakom procesu potrebna najvise dva resursa. Pokazati da sistem moze doci u stanje otpunog zastoja"
+  },
+  "221": {
+    "Lecture": 9,
+    "Drawing": true,
+    "Question": "Prikazati skup mogucih stanja sistema sa stanovnista potpunog zastoja"
+  },
+  "222": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Objasni strategije sprecavanja i izbegavanja potpunog zastoja"
+  },
+  "223": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Cime je određeno stanje dodele resursa kod algoritama izbegavanja potpunog zastoja"
+  },
+  "224": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Navesti primer algoritama za izbegavanje potpunog zastoja"
+  },
+  "225": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Objasni princip rada bankarovog algoritma"
+  },
+  "226": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Objasni trategiju koja omogućava otkrivanje punog zastoja i nakon toga oporavak sistema"
+  },
+  "227": {
+    "Lecture": 9,
+    "Drawing": false,
+    "Question": "Da li se za sve sisteme moze usvojiti predpostavka da se zbog male verovatnoce pojavljivanja potpuni zastoj nikada neće pojaviti"
+  },
+  "228": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Koje su 3 najvaznije aktivnosti OS u delu za upravljanje podacima na sekundarnoj memoriji?"
+  },
+  "229": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti funkcije sistema za upravljanje podacima"
+  },
+  "230": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Prikazati graficki komponente sistema za upravljanje podarima"
+  },
+  "231": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Sta je datoteka"
+  },
+  "232": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Koje su najcesce komande koje koristi sistem za upravljanje podacima"
+  },
+  "233": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Sta je deskriptor datoteke"
+  },
+  "234": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Prilikom kreiranja novog procesa kod UNIX OS koji se deskriptori datoteka automatski dodeljuju tom novom procesu"
+  },
+  "235": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Sta sve moze da prouzrukuje unistenje datoteka ili delova datoteka"
+  },
+  "236": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Sta je direktorijum"
+  },
+  "237": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Kako se mogu realizovati direktorijumi"
+  },
+  "238": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Prikazati linearni prostor imena koji se koristi za rad sa direktorijumima"
+  },
+  "239": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Prikazati hierarhijski prostor imena koji se koristi za rad sa direktorijumima"
+  },
+  "240": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Prikazati primer aciklicnog grafa koji se koristi za rad sa direktorijumima"
+  },
+  "241": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Graficki prikazati primer strukture sistema datoteka"
+  },
+  "242": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Koji podaci se nalaze u particijama diska"
+  },
+  "243": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti tipove particija koje se koriste kod sistema datoteka"
+  },
+  "244": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti organizacije datoteka koje se primenjuju kod OS"
+  },
+  "245": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti primere sistema datoteka"
+  },
+  "246": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Graficki prikazati strukture podataka koje se koriste kod tipičnog sistema datoteka"
+  },
+  "247": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni sta je tablea deskriptora"
+  },
+  "248": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni sta je tabela otvorenih datoteka. Da li se ona kreira za svaki aktivan proces"
+  },
+  "249": {
+    "Lecture": 10,
+    "Drawing": true,
+    "Question": "Graficki prikazati strukture podataka koje se koriste za rad sa datotekama kod UNIX OS"
+  },
+  "250": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti osnovne metode pristupa podacima na disku"
+  },
+  "251": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni metode pristupa podacima zasnovane na primeni indeksa"
+  },
+  "252": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti primer aplikacije koja podacima u datoteci pristupa: sekvencijalno, direktno"
+  },
+  "253": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Kako se moze koristiti indeksna datoteka da se ubrza pristup datoteci sa direktnim pristupom"
+  },
+  "254": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Kako koriscenje kes memorije poboljsava preformanse sistema kada se pristupa podacima? Zasto racunarski sistemi ne koriste vise kes memorije kada vec poboljsava preformanse"
+  },
+  "255": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Zasto se bit mapa koja se koristi za dodelu prostora datoteka mora cuvati na magnetnom mediju periferijskog uređaja, a ne u glavnoj memoriji?"
+  },
+  "256": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Kako se datoteka upisuje u blokove na magnetnom disku, tj navesti i objasniti glavne metode dodele prostora na disku"
+  },
+  "257": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni upisivanje datoteka u blokove dodelom susednih blokova"
+  },
+  "258": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni upisivanje datoteka u blokove dodelom međusobno povezanih blokova"
+  },
+  "259": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni upisivanje datoteka u blokove dodelom blokova indeksa"
+  },
+  "260": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni cemu sluze udaljeni sistemi datoteka (remote file system)"
+  },
+  "261": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni LDAP (Ligtweight Directory-Access Protocol)"
+  },
+  "262": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Navesti algoritme koji se koriste za dodelu diska"
+  },
+  "263": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni FCFS (First Come First Served) algoritam za dodelu diska"
+  },
+  "264": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni SSTF (Shortest Seek Time First)"
+  },
+  "265": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni SCAN"
+  },
+  "266": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni C-SCAN"
+  },
+  "267": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni LOOK"
+  },
+  "268": {
+    "Lecture": 10,
+    "Drawing": false,
+    "Question": "Objasni C-LOOK"
+  },
+  "269": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Koje su osnovne karakteristike distribuiranih sistema"
+  },
+  "270": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost"
+  },
+  "271": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost pristupa"
+  },
+  "272": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost lokacije"
+  },
+  "273": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost migracije"
+  },
+  "274": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost relokacije"
+  },
+  "275": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost replikacije"
+  },
+  "276": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost konkurencije"
+  },
+  "277": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost otkazivanja"
+  },
+  "278": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni transparentsnost presistencije"
+  },
+  "279": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni sta su otvoreni sistemi"
+  },
+  "280": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni sta je uravnotezenost ili srazmernost sistema (scalability)"
+  },
+  "281": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni heterogenost distribuiranih sistema"
+  },
+  "282": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni raspolozivost resursa i pouzdanost podataka u distribuiranim sistemima"
+  },
+  "283": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Navesti primere distribuiranih sistema"
+  },
+  "284": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati osnovne topologije racunarskih mreza"
+  },
+  "285": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati OSI referentni model za komunikacije"
+  },
+  "286": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasniti ukratno funkcije pojedinih nivoa OSI modela"
+  },
+  "287": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni protokol za pozivanje metode udaljenih objekata"
+  },
+  "288": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati arhitekturu distribuiranih OS"
+  },
+  "289": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati arhitekturu mreznih OS"
+  },
+  "290": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Pokazati polozaj posrednog softvera (middleware) u distribuiranim sistemima"
+  },
+  "291": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Kako se vrsi sinhronizacija logickih stavova u distribuiranim sistemima"
+  },
+  "292": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni sta je globalno stanje u distribuiranim sistemima"
+  },
+  "293": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasniti distribuirano međusobno iskljucenje procesa"
+  },
+  "294": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati relaciju centralizovanog algoritma sa tokenima za distribuirano međusobno iskljucenje procesa"
+  },
+  "295": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati realizaciju algoritama sa tokenima za distribuirano međusobno iskljucenje procesa gde ne postoji koordinator"
+  },
+  "296": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati uloga staba (client and server stub) i koncept realizacije poziva udaljenih precedura"
+  },
+  "297": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasniti imenovanje kao jedan od najvaznijih servisa koje posredni middleware podrzava"
+  },
+  "298": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati primer jednog dela prostora imena DNS (Domain Name Space)"
+  },
+  "299": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati i objasniti nacin resavanja imena zasnovan na iterativnom postupku"
+  },
+  "300": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati i objasniti rekurzibni nacin resavanja imena"
+  },
+  "301": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati i objasniti sta su ugnjezdene transakcije"
+  },
+  "302": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati tronivosku arhitekturu softvera za upravljanje konkurentnim transakcijama"
+  },
+  "303": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Sta je replikacija"
+  },
+  "304": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Navesti znacajna pitanja u implementaciji replikacije"
+  },
+  "305": {
+    "Lecture": 11,
+    "Drawing": true,
+    "Question": "Prikazati i objasniti koncept distribuirane deljene memorije"
+  },
+  "306": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Definisati pojam distribuiranog istema datoteka"
+  },
+  "307": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni sta je semantika deljenja datoteka. Navesti i objasni primere"
+  },
+  "308": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni metode pristupa"
+  },
+  "309": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni i uporedi pojmove transparentnosti lokacije i nezavisnosti lokacije"
+  },
+  "310": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni razliku između servera sa ocuvanjem stanja i servera bez ocuvanja stanja"
+  },
+  "311": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Urediti preformanse i otpornost na otkaze između servera sa ocuvanjem stanja i servera bez ocuvanja stanja"
+  },
+  "312": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni razliku između sposobnosti za oporavak i robusnost datoteke"
+  },
+  "313": {
+    "Lecture": 11,
+    "Drawing": false,
+    "Question": "Objasni razliku između sposobnosti za oporavak i respoloživost datoteke"
+  },
+  "314": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Na kojim se nivoima primenjuje zastita kod savremenih racunarskih sistema"
+  },
+  "315": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Koje nacine zastite moze da obezbedi OS"
+  },
+  "316": {
+    "Lecture": 12,
+    "Drawing": true,
+    "Question": "Opsti model zastite racunarskih sistema"
+  },
+  "317": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Sta je pravo pristupa datom objektu"
+  },
+  "318": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Bitna razlika koja postoji između mehanizma zastite i politike zastite"
+  },
+  "319": {
+    "Lecture": 12,
+    "Drawing": true,
+    "Question": "Primer matrice pristupa za sistem koji ima 5 procesa i 3 resursa kojima ti procesi pripadaju"
+  },
+  "320": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Objasni nacine realizacije domena zastite"
+  },
+  "321": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Kakvo moze biti vezivanje procesa i domena zastite"
+  },
+  "322": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Koji zahtevi zastite postoje kod danasnjih sistema koje se zanivaju na komunikaciji korisnickog procesa i servisa koji obezbeđuje neku vrstu usluge ili obrade podataka"
+  },
+  "323": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Osnovne vrste napada na OS"
+  },
+  "324": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Sta su virusi"
+  },
+  "325": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Navedi i objasni najpoznatije tipove virusa"
+  },
+  "326": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Sta su racunarski crvi (worms)"
+  },
+  "327": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Sta su Trojanski Konji"
+  },
+  "328": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Navedi i objasni vrste napada koji se pojavljuju kod distribuiranih sistema"
+  },
+  "329": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Navesti osnovne mehanizme zastite koje koriste savremeni OS"
+  },
+  "330": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Na koj nacin danasnji OS imaju poboljsan sistem lozinki"
+  },
+  "331": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "PW nekog korisnika moze da postane poznad drugim korisnicima na razlicite nacine. Postoji li jednostavan metod kojim se moze detektovati pojavljivanje toga? Obrazlozi"
+  },
+  "332": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Objasni osnovni nedostatak mehanizma zastite koji uvodi prava pristupa na nivou procesa"
+  },
+  "333": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Objasni mehanizam zastite koji se zasniva na pravu pristupa samo za tekucu aktivnost datog procesa"
+  },
+  "334": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Navesti principe koji se koriste za projektovanje zastite kod OS"
+  },
+  "335": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Koji se mehanizmi zastite koriste kod distribuiranih sistema"
+  },
+  "336": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Osnovni principi na kojima se zasnivaju sve metode autentikacije"
+  },
+  "337": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Objasni need-to-know princip zastite"
+  },
+  "338": {
+    "Lecture": 12,
+    "Drawing": true,
+    "Question": "Model sistema komunikacije 2 korisnika preko nesigurnog komunikacionog kanala koriscenjem kriptografije"
+  },
+  "339": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Navesti osnovne grupe algoritama koji se koriste u kriptografiji"
+  },
+  "340": {
+    "Lecture": 12,
+    "Drawing": true,
+    "Question": "Blok sema sistema koji koriste simetricne algoritme"
+  },
+  "341": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Koji su najpoznatiji simetricni algoritmi"
+  },
+  "342": {
+    "Lecture": 12,
+    "Drawing": true,
+    "Question": "Blok sema sistema koji koriste asimetricne algoritme"
+  },
+  "343": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Najpoznatiji asimetricni algoritam"
+  },
+  "344": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Prednosti kriptovanja prodataka koji se nalaze u uskladisteni na datom racunarskom sistemu"
+  },
+  "345": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Sta garantuje ditigalni potpis"
+  },
+  "346": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Kolika je duzina u bajtovima rezultujuce hash vrednosti koja se doija primenom MD5 algoritma"
+  },
+  "347": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Kolika je duzina bajtova rezultujuce hash vrednosti koja se dobija primenom SHA (Secure Hash Algorithm)"
+  },
+  "348": {
+    "Lecture": 12,
+    "Drawing": false,
+    "Question": "Source kod Linux OS je javno dostupan i preko interneta i distriubiranih CD-ova. Koje implikacije iz toga posticu na zastitu Linux OS??"
+  }
+}
